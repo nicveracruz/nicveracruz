@@ -4,15 +4,14 @@
 </div>
 
 ## ℹ️ Get to Know Me
-<img align="right" hspace="20" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="320"/>
-
 I bridge the gap between data and development. Whether I'm configuring web environments, running analytics, or building predictive models, I focus on creating systems that make a tangible business impact. 
+
+  <img align="right" hspace="10" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="315"/>
 
 * 🔭 **Currently working on:** A BI-driven sales forecasting and inventory optimization system for e-commerce.
 * 🌱 **Currently learning:** Advanced data visualization, predictive analytics, and refining my frontend development skills.
 * 🔰 **Roles:** Handling DevOps, frontend reconfiguration, and cPanel analytics for my college yearbook's web development team.
 * ⚡ **Fun fact:** I'm on a personal roadmap to become a polymath; balancing code, writing, law, and art.
-
 ## 👾 My Tech & Tools
 
 <div align="center">
@@ -38,7 +37,7 @@ Let me guess... your number is exactly the number you just thought of! 🤯 <br>
 </details>
 
 <div align="center">
-  <h2>Let's Connect <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJlcGpoZmdnb2xkYmU4bjkzZ2NuYTRodTVreXByZHR1aGIxN3VmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Uy3xkQ7oouXyM9TPj5/giphy.gif" width="60" align="absmiddle"/> </h2>
+  <h2>Let's Connect <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AxYWhlbHNmbjVhY2w3bGY3ODd4cXR5eW5tZ2ZnMW9la2pycGF4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDRd6KNG0RogXmzFUl/giphy.gif" width="45" align="absmiddle"/> </h2>
   
   
   </h2>
