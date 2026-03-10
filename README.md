@@ -6,7 +6,7 @@
 ## ℹ️ Get to Know Me
 I bridge the gap between data and development. Whether I'm configuring web environments, running analytics, or building predictive models, I focus on creating systems that make a tangible business impact. 
 
-  <img align="right" hspace="10" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+  <img align="right" hspace="10" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="280"/>
 
 * 🔭 **Currently working on:** A BI-driven sales forecasting and inventory optimization system for e-commerce.
 * 🌱 **Currently learning:** Advanced data visualization, predictive analytics, and refining my frontend development skills.
